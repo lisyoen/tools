@@ -4,4 +4,4 @@ Clicker
 
 https://lisyoen.github.io/tools/Clicker.exe.zip
 
-https://lisyoen.github.io/tools/Clicker.zip_
+https://lisyoen.github.io/tools/Clicker.zip__
